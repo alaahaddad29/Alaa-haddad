@@ -72,10 +72,3 @@ A predictive model that forecasts extreme weather events using real-time IoT sen
 
 ---
 
-## 📊 GitHub Stats
-
-![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaahaddad29&show_icons=true&theme=default&hide_border=true)
-
----
-
-*Open to ML Engineer opportunities — feel free to connect on [LinkedIn](https://linkedin.com/in/alaa-mohammed-800370202).*
